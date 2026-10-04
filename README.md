@@ -14,12 +14,43 @@ artificial intelligence, and building practical solutions.
 
 ## 🛠️ Technologies & Tools
 
-- 💻 C / C++ / Python / JavaScript / TypeScript
-- 🌐 HTML / CSS / Vue.js / Tailwind CSS / Vite
-- ⚙️ Node.js / Express.js / REST APIs
-- 🗄️ PostgreSQL
-- 🤖 Pandas / NumPy / Scikit-learn
-- 🔧 Git / GitHub / VS Code
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,vue,tailwind,vite" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 
 
